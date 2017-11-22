@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cam",
+				"camimage"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"get",
+				"get_height"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"ra",
+				"randrange"
+			],
+			[
+				"bloc",
+				"blocks"
+			],
+			[
+				"upda",
+				"updateall"
+			],
+			[
+				"c",
+				"chicken"
+			],
+			[
+				"D",
+				"DWIDHT"
+			],
+			[
+				"draw",
+				"drawpos"
+			],
+			[
+				"lis",
+				"lis2"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"E",
+				"Enemy"
+			],
+			[
+				"En",
+				"Entety"
+			],
+			[
+				"fi",
+				"friction"
+			],
+			[
+				"add",
+				"addForce"
+			],
+			[
+				"play",
+				"player_position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"spr",
+				"sprites"
+			],
+			[
+				"Sp",
+				"Sprite"
+			],
+			[
+				"Spr",
+				"SpriteEntety"
+			],
+			[
+				"player",
+				"player_position"
+			],
+			[
+				"pla",
+				"player_speed"
+			],
+			[
+				"pl",
+				"player_position"
+			],
+			[
+				"WH",
+				"WIDTH"
+			],
+			[
+				"ky",
+				"keys"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"Obje",
+				"ObjectManager"
+			],
+			[
+				"objec",
+				"object"
+			],
+			[
+				"cli",
+				"clip"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"lo",
+				"localScale"
+			],
+			[
+				"s",
+				"selected"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"k",
+				"keys"
+			],
+			[
+				"by",
+				"byteToInt"
+			],
+			[
+				"red",
+				"read"
+			],
+			[
+				"wa",
+				"waveForm"
+			],
+			[
+				"K",
+				"KEYDOWN"
+			],
+			[
+				"loo",
+				"looping"
+			],
+			[
+				"B",
+				"BLACK"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/pi/Documents/Janeks Projects/Python/LW/lw1.py",
+			"settings":
+			{
+				"buffer_size": 478,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pi/Documents/Janeks Projects/Python/LW/lw2.py",
+			"settings":
+			{
+				"buffer_size": 1075,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pi/Documents/Janeks Projects/Python/LW/camera.py",
+			"settings":
+			{
+				"buffer_size": 626,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pi/Documents/Janeks Projects/Python/LW/pixelsort2.py",
+			"settings":
+			{
+				"buffer_size": 1339,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pi/Documents/Janeks Projects/Python/LW/chickenrun.py",
+			"settings":
+			{
+				"buffer_size": 1679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pi/Documents/Janeks Projects/Python/LW/lw3.py",
+			"settings":
+			{
+				"buffer_size": 147,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "vmen",
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 220.0,
+		"history":
+		[
+			"show(\"menu\")",
+			"show menu"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pi/Documents/Janeks Projects/Python/Rpg/rpg.py",
+		"/home/pi/.config/sublime-text-3/Packages/User/python 3.sublime-build",
+		"/home/pi/Documents/Janeks Projects/Python/video.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/misc/drawing.py",
+		"/home/pi/Documents/Janeks Projects/Python/Rpg/gameTest.py",
+		"/home/pi/Documents/Janeks Projects/Python/gameobject.py",
+		"/home/pi/Documents/Janeks Projects/Python/vector.py",
+		"/home/pi/Documents/Janeks Projects/Python/mapper.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/status.json",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/opener.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/collect.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/arranger.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/OPJ.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/misc/durTest.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-K/OPJ.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-K/opener.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-K/collect.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-K/arranger.py",
+		"/home/pi/Documents/Janeks Projects/Python/OP-J/pds/rec.wav",
+		"/usr/bin/zenity"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hvsa",
+			"255",
+			"mode",
+			"s",
+			"sprite",
+			"Sprite",
+			"sprite",
+			"Sprite",
+			"sprite",
+			"Sprite",
+			"sprite",
+			"import",
+			")\n",
+			"()",
+			"state",
+			"    ",
+			"file"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hsva",
+			"self.mode",
+			"self",
+			"    ",
+			"item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/pi/Documents/Janeks Projects/Python/LW/lw1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/pi/Documents/Janeks Projects/Python/LW/lw2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/pi/Documents/Janeks Projects/Python/LW/camera.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/pi/Documents/Janeks Projects/Python/LW/pixelsort2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/pi/Documents/Janeks Projects/Python/LW/chickenrun.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1395
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/pi/Documents/Janeks Projects/Python/LW/lw3.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 312.0
+	},
+	"pinned_build_system": "Packages/User/python 3.sublime-build",
+	"project": "rpg.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
