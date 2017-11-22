@@ -1,0 +1,31 @@
+def playCall():
+	global player
+	cls(RED)
+	circ(50,50,50,BLACK)
+	if len(keydown)!=0:
+		print(keydown)
+	player.draw()
+
+global Player,playerStart
+
+def playerStart():
+	global player
+	player =Player()
+
+
+class Player:
+	def __init__(s):
+		s.x =0
+		s.y =0
+	def draw(s):
+		circ(int(s.x),int(s.y),40,GREEN)
+		if pygame.K_DOWN in keypress:
+			s.y +=.1
+		if pygame.K_UP in keypress:
+			s.y -=.1
+		if pygame.K_RIGHT in keypress:
+			s.x +=.1
+		if pygame.K_LEFT in keypress:
+			s.x -= .1
+
+player = Player()
