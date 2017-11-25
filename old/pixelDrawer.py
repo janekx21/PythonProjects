@@ -96,11 +96,12 @@ while True:
 	SCREEN.fill(DARK)
 	
 	if pygame.mouse.get_pressed()[0]:
+		if pygame.key.get_pressed()[pygame.K_SPACE]:
 
-		if ui_pos[1] < 1:
-			CURRENTCOLOR =  ui_pos[0]
-		elif ui_pos[0] < 1:
-			PINSELSIZE = ui_pos[1]
+			if ui_pos[1] < 1:
+				CURRENTCOLOR =  ui_pos[0]
+			elif ui_pos[0] < 1:
+				PINSELSIZE = ui_pos[1]
 		else:
 			pygame.draw.line(DRAWSURF,COLORS[CURRENTCOLOR],pix_pos,LASTMOUSEPOS,PINSELSIZE)
 			pygame.draw.circle(DRAWSURF,COLORS[CURRENTCOLOR],pix_pos,PINSELSIZE//2)
@@ -133,8 +134,9 @@ while True:
 	UISURF.set_at((0,PINSELSIZE),WHITE)
 	buf = pygame.transform.scale(DRAWSURF, DISPLAYSIZE)
 	SCREEN.blit(buf,(0,0))
-	buf = pygame.transform.scale(UISURF, DISPLAYSIZE)
-	SCREEN.blit(buf,(0,0))#,None, pygame.BLEND_RGBA_ADD)
+	if pygame.key.get_pressed()[pygame.K_SPACE]:
+		buf = pygame.transform.scale(UISURF, DISPLAYSIZE)
+		SCREEN.blit(buf,(0,0))#,None, pygame.BLEND_RGBA_ADD)
 	pygame.display.flip()
 	if not pygame.key.get_mods() and pygame.KMOD_SHIFT:
 		LASTMOUSEPOS = pix_pos
