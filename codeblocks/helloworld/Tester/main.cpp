@@ -22,7 +22,7 @@ int main(){
     while(1) {
         SDL_Event e;
         SDL_GetMouseState(&mousex,&mousey);
-        SDL_SetRenderDrawColor(ren,255,0,0,255);
+        SDL_SetRenderDrawColor(ren,50,55,55,255);
         SDL_RenderClear(ren);
         SDL_SetRenderDrawColor(ren,255,255,0,255);
         if(SDL_PollEvent(&e)){
@@ -33,12 +33,16 @@ int main(){
                 SDL_Scancode key =e.key.keysym.scancode;
                 if(key == SDL_SCANCODE_SPACE){
                     showrect = !showrect;
-                }else{
-                    printf("%d\n",key);
+                }else if(key == SDL_SCANCODE_ESCAPE){
+                    break;
+                }
+                else{
+                    printf("key: %d\n",key);
                 }
             }
         }
         SDL_RenderDrawLine(ren,0,0,mousex,mousey);
+        /*
         if(showrect){
             SDL_Rect rect;
             rect.x = 10;
@@ -58,6 +62,7 @@ int main(){
         dest.w = 100;
         dest.h = 100;
         SDL_RenderCopy(ren,tex,&souce,&dest);
+        */
         map->Draw(ren);
         SDL_RenderPresent(ren);
         //std::cout << "x:"<<mousex<<"y:"<<mousey << "\n";

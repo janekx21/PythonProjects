@@ -10,7 +10,7 @@ class Map
         ~Map();
 
         int w,h;
-        unsigned char* data;
+        char** data;
         void Draw(SDL_Renderer* ren);
         void Update();
         static void init(SDL_Renderer* ren);
